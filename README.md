@@ -4,6 +4,6 @@
 #Installation
 - <code> go get github.com/shwoodard/jsonapi </code>
 - pull this repository to your folder
-- Change <code>"JsonAPI/app/model"</code> in import of <code>app.go</code> to <code>"yourFolderName/app/model"
+- Change <code>"JsonAPI/app/model"</code> in import of <code>app.go</code> to <code>"yourFolderName/app/model".
 - run this project <code>revel run yourFolerName</code>
 
